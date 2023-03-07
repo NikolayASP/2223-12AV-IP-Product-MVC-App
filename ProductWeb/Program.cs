@@ -1,4 +1,4 @@
-//My proj
+//My project
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
